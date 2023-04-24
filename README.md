@@ -1,2 +1,4 @@
-# difference-spotter
-spots differences in images. just in case.
+# Difference-Spotter
+spots and marks differences in images.
+
+Beispielbild von [Markus Bülow's Blog](http://markusbuelow.blogspot.com/).
